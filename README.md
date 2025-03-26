@@ -11,9 +11,15 @@
 
 ## 🎯 Project Goals
 ✅ Create a REST API with FastAPI
+
 ✅ Use Async Programming (asyncio) for improved efficiency
+
 ✅ Secure API with JWT Authentication
+
 ✅ Integrate a PostgreSQL Database with SQLAlchemy
+
 ✅ Dockerize the Application for Deployment
+
 ✅ Deploy to AWS Lambda using Terraform
+
 ✅ Implement CI/CD Pipeline for Auto Deployment
