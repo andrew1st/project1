@@ -9,7 +9,7 @@
 - AWS Account (for Lambda deployment)
 - GitHub (for version control)
 
-## 🎯 Project Goals & Current progress
+## 🎯 Project Goals & Progress Checklist
 ✅ Create a REST API with FastAPI
 
 ✅ Use Async Programming (asyncio) for improved efficiency
@@ -23,3 +23,9 @@
 [ ] Deploy to AWS Lambda using Terraform
 
 [ ] Implement CI/CD Pipeline for Auto Deployment
+
+
+### 📌 Next Steps
+1. Test endpoints using Swagger UI (/docs).
+1. Optimize API performance (profiling, caching).
+1. Extend API with new features (WebSockets, caching with Redis).
