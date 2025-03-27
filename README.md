@@ -9,7 +9,7 @@
 - AWS Account (for Lambda deployment)
 - GitHub (for version control)
 
-## 🎯 Project Goals
+## 🎯 Project Goals & Current progress
 ✅ Create a REST API with FastAPI
 
 ✅ Use Async Programming (asyncio) for improved efficiency
@@ -20,6 +20,6 @@
 
 ✅ Dockerize the Application for Deployment
 
-✅ Deploy to AWS Lambda using Terraform
+[ ] Deploy to AWS Lambda using Terraform
 
-✅ Implement CI/CD Pipeline for Auto Deployment
+[ ] Implement CI/CD Pipeline for Auto Deployment
