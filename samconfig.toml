@@ -1,0 +1,4 @@
+[default.deploy.parameters]
+stack_name = "fastapi-lambda"
+s3_bucket = "my-app-bucket"
+capabilities = "CAPABILITY_IAM"
