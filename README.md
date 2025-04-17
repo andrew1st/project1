@@ -20,25 +20,24 @@
 
 ✅ Dockerize the Application for Deployment
 
-✅ Deploy to AWS Lambda using Terraform
+[ ] Deploy to AWS Lambda using Terraform
 
-✅ Implement CI/CD Pipeline for Auto Deployment
+[ ] Implement CI/CD Pipeline for Auto Deployment
 
 
 #### 📌 Next Steps
-1. Test endpoints using Swagger UI (/docs).
 1. Optimize API performance (profiling, caching).
 1. Extend API with new features (WebSockets, caching with Redis).
 
 
 #### ✅ Task Breakdown: Project 1 – Async API with FastAPI
-*Phase 1: Environment Setup*
-- Create project folder and initialize Git repository
-- Set up virtual environment and install packages (fastapi, uvicorn, sqlalchemy, databases, etc.)
-- Set up base main.py and a /docs endpoint
+~~*Phase 1: Environment Setup*~~
+✅ Create project folder and initialize Git repository
+✅ Set up virtual environment and install packages (fastapi, uvicorn, sqlalchemy, databases, etc.)
+✅ Set up base main.py and a /docs endpoint
 
 *Phase 2: Async CRUD API*
-- Define a SQLAlchemy model for a resource (e.g., Task, User, Note)
+✅ Define a SQLAlchemy model for a resource (e.g., Task, User, Note)
 - Set up PostgreSQL or SQLite DB and connect with databases package
 - Implement basic async CRUD endpoints (GET, POST, PUT, DELETE)
 
