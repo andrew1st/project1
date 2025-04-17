@@ -1,5 +1,6 @@
 from sqlalchemy.future import select
-from app.models import User, Task, Note
+from app.models import Task, Note
+from app.schemas import TaskCreate, NoteCreate
 
 # TASKS
 async def create_task(db, task: TaskCreate, user_id: int):

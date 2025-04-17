@@ -17,7 +17,7 @@ services:
     image: postgres:14
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: 1st
+      POSTGRES_PASSWORD: mysecurepassword
       POSTGRES_DB: fastapi_app
     ports:
       - "5432:5432"
