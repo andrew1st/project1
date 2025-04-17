@@ -20,12 +20,14 @@
 
 ✅ Dockerize the Application for Deployment
 
-[ ] Deploy to AWS Lambda using Terraform
+✅ Deploy to AWS Lambda using Terraform
 
-[ ] Implement CI/CD Pipeline for Auto Deployment
+✅ Implement CI/CD Pipeline for Auto Deployment
 
 
 ### 📌 Next Steps
-1. Test endpoints using Swagger UI (/docs).
-1. Optimize API performance (profiling, caching).
-1. Extend API with new features (WebSockets, caching with Redis).
+Test endpoints using Swagger UI (/docs).
+
+Optimize API performance (profiling, caching).
+
+Extend API with new features (WebSockets, caching with Redis).
