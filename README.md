@@ -20,7 +20,7 @@
 
 ✅ Dockerize the Application for Deployment
 
-[ ] Deploy to AWS Lambda using Terraform
+[ ] Deploy to AWS Lambda (using SAM and/or Terraform)
 
 [ ] Implement CI/CD Pipeline for Auto Deployment
 
@@ -38,7 +38,7 @@
 
 *Phase 2: Async CRUD API*
 - ~~Define a SQLAlchemy model for a resource (e.g., Task, User, Note)~~
-- Set up PostgreSQL or SQLite DB and connect with databases package
+- ~~Set up PostgreSQL or SQLite DB and connect with databases package~~
 - Implement basic async CRUD endpoints (GET, POST, PUT, DELETE)
 
 *Phase 3: Authentication*
